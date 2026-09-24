@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leafnotego.vercel.app/sitemap.xml
